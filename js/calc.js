@@ -27,7 +27,7 @@ function num(number) {
 
 function ac() {
   display.innerHTML = "0";
-  temp = [];
+  temp = [0];
 }
 
 function del() {
