@@ -11,6 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: bisque;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .nav {
@@ -55,14 +56,12 @@ input:focus {
 }
 
 .display p {
-  display: flex;
   width: 100%;
   height: 100%;
   padding: 10px;
   border: none;
   font-size: large;
-  align-items: center;
-  justify-content: right;
+  text-align: right;
   background-color: rgb(255, 255, 255);
 }
 
